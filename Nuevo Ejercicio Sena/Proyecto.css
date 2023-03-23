@@ -28,7 +28,7 @@ main h1{
 }
 main .cuadro{
     width: 90%;
-    height: 700px;
+    height: auto;
     border:  5px solid green;
     margin: 0 auto;
     position: relative;
@@ -54,18 +54,23 @@ main .cuadro{
     left: 5%;
     top: 10px;
     width: 40%;
-    height: 500px;
+    height: auto;
     background-color: rgba(0, 125, 0, 0.596);
     color: white;
-    font-size: 100%;
+    font-size: 250%;
     font-family: tahoma;
     text-align: start;
 }
 .fotone{
     width: 40%;
-    height: 400px;
+    height: auto;
     position: relative;
     left: 50%;
-    top: -490px;
+    top: -560px;
     background-color: beige;
+}
+.fotone img{
+    width: 70%;
+    position: absolute;
+
 }
