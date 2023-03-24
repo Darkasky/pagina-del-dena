@@ -4,6 +4,7 @@ main header{
     position: relative;
     left: 10%;
     top: 10px;
+    font-family: tahoma;
     
 }
 header .imagen{

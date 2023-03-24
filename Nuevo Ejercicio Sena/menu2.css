@@ -15,10 +15,3 @@ nav a {
     font-family: tahoma;
 }
 
-nav a:hover {
-    background-color: green;
-}
-
-nav a.selected {
-    background-color: green;
-}
