@@ -23,7 +23,7 @@ main h1{
     width: 400px;
     font-size: 100%;
     font-family: tahoma;
-    color: green;
+    color: #008000;
     position: relative;
     left: 48%;
     top: -50px;
@@ -33,7 +33,7 @@ main h1{
 main .cuadro{
     width: 90%;
     height: 700px;
-    border:  5px solid green;
+    border:  5px solid #008000;
     margin: 0 auto;
     position: relative;
     top: 20px;
@@ -43,4 +43,23 @@ main .cuadro{
     position: relative;
     left: 30%;
     top: 30px;
+}
+.qui{
+    text-align: center;
+    font-size: 60px;
+    font-family: tahoma;
+    color: #000000;
+}
+.par{
+    display: block;
+    width: auto;
+    height: auto;
+    background-color: #ffffff81;
+    font-size: 25px;
+    font-family: tahoma;
+    color: #000000;
+}
+body iframe{
+   position: relative;
+   left: 30%;
 }

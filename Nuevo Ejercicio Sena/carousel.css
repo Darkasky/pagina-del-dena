@@ -5,6 +5,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-image: url(./imagenes/SENA\ Al\ Aire\ TV.jpeg);
+    background-size: cover;
+}
 body main{
     width: 90%;
     height: auto;
